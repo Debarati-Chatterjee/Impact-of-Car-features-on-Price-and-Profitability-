@@ -7,4 +7,3 @@ Insight:
 4. Coupe styled Bugatti is highest priced car. Plymouth branded car has lowest average price.
 5. Automated manual transmission typed car are costly.
 6. In 2017 coupe styled Acura Branded car became costliest car.
-![image](https://github.com/Debarati-Chatterjee/Impact-of-Car-features-on-Price-and-Profitability-/assets/133676220/156202b6-773b-4aac-8d65-948088b02840)
